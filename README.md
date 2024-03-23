@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm winnie</h1>
 <h3 align="center">Currently still a student majoring in software engineering.</h3>
 
-- 🔭 I’m currently cadet at **42KL**
+- 🔭 currently cadet at **42KL**
 
-- 🌱 I’m currently learning **C, C++, Java, Python**
+- 🌱  currently learning **C, C++, Java, Python**
 
 - 📫 How to reach me **hengwinnie94@gmail.com**
 
