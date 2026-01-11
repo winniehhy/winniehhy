@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm winnie</h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng1a21pM3FmZDNvOWdqaWJsejB2bWExcTdxamt5NThmOGl2aXk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1NnN2Yzd4c25ucDNlaW93Ymp4bjUxOXlicTJ6MjM4dnptZWdvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WEEdUzitOHtS8uzwU4/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
 - 🔭 Currently cadet at **42KL**
